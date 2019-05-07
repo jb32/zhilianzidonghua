@@ -1,0 +1,6 @@
+{
+    "AppName": "智联智能",
+    "AppId": "com.xjb.zzl.smart",
+    "WeexBundle": "HomeViewController.js",
+    "SplashText": "22"
+}

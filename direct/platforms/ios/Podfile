@@ -1,0 +1,31 @@
+source 'git@github.com/CocoaPods/Specs.git'
+
+platform:ios, '9.0'
+
+use_frameworks!
+inhibit_all_warnings!
+
+def common
+    pod 'WXDevtool', :configurations => ['Debug']
+	  pod 'WeexSDK'
+    pod 'WeexPluginLoader'
+    pod 'SocketRocket', :configurations => ['Debug']
+    pod 'CocoaAsyncSocket'
+
+    pod 'Ruler'
+    pod 'GTMBase64'
+    pod 'GzipSwift'
+    pod 'Kingfisher'
+    pod 'CryptoSwift'
+    pod 'SwiftyJSON'
+    pod 'SGQRCode'
+    pod 'ReachabilitySwift'
+end
+
+target 'WeexDemo' do
+    common
+end
+
+target 'WeexUITestDemo' do
+    common
+end

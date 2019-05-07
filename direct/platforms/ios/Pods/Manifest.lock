@@ -1,0 +1,67 @@
+PODS:
+  - CocoaAsyncSocket (7.6.3)
+  - CryptoSwift (1.0.0)
+  - GTMBase64 (1.0.1)
+  - GzipSwift (5.0.0)
+  - Kingfisher (4.10.1)
+  - ReachabilitySwift (4.3.1)
+  - Ruler (3.0.0)
+  - SGQRCode (3.0.1)
+  - SocketRocket (0.5.1)
+  - SwiftyJSON (5.0.0)
+  - WeexPluginLoader (0.0.1.9.1):
+    - WeexSDK
+  - WeexSDK (0.20.1)
+  - WXDevtool (0.20.0):
+    - SocketRocket
+    - WeexSDK
+
+DEPENDENCIES:
+  - CocoaAsyncSocket
+  - CryptoSwift
+  - GTMBase64
+  - GzipSwift
+  - Kingfisher
+  - ReachabilitySwift
+  - Ruler
+  - SGQRCode
+  - SocketRocket
+  - SwiftyJSON
+  - WeexPluginLoader
+  - WeexSDK
+  - WXDevtool
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - CocoaAsyncSocket
+    - CryptoSwift
+    - GTMBase64
+    - GzipSwift
+    - Kingfisher
+    - ReachabilitySwift
+    - Ruler
+    - SGQRCode
+    - SocketRocket
+    - SwiftyJSON
+    - WeexPluginLoader
+    - WeexSDK
+    - WXDevtool
+
+SPEC CHECKSUMS:
+  CocoaAsyncSocket: eafaa68a7e0ec99ead0a7b35015e0bf25d2c8987
+  CryptoSwift: d81eeaa59dc5a8d03720fe919a6fd07b51f7439f
+  GTMBase64: f0f91be06a7a20b84c8e4fee30c0430395091d82
+  GzipSwift: 5592f4d62b641e04d06443ba471f8ed76b1363e4
+  Kingfisher: c148cd7b47ebde9989f6bc7c27dcaa79d81279a0
+  ReachabilitySwift: 4032e2f59586e11e3b0ebe15b167abdd587a388b
+  Ruler: 2c68f88289b93427a90c6551982d471cb7180ee0
+  SGQRCode: bf02d60e18d6660a9d75ff1c8b9b467f064f054e
+  SocketRocket: d57c7159b83c3c6655745cd15302aa24b6bae531
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  WeexPluginLoader: 85c1304f8ba29864e58531614a0acfeceef1b85c
+  WeexSDK: ced3f2ef2f0cb48d1d76fd2f03c645572c632d21
+  WXDevtool: 833dd3e835df1f5f278fc8865c865d48196bfdab
+
+PODFILE CHECKSUM: f28bcb77ac987babcb6bb86282330b7a52b02553
+
+COCOAPODS: 1.5.2

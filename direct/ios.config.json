@@ -1,0 +1,9 @@
+{
+   "AppName":"智联智能",
+   "Version":"0.1",
+   "BuildVersion":"0.1.0",
+   "AppId":"com.xjb.zzl.smart",
+   "CodeSign":"",
+   "Profile":"",
+   "WeexBundle":"HomeViewController.js"
+}

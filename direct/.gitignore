@@ -1,0 +1,9 @@
+node_modules
+.temp
+.idea
+dist
+.gradle
+appframework
+.weex_plugin.json
+build
+.DS_Store
